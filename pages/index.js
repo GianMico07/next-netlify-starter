@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hi vlog welcome to my guys!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Sorry, kung naunahan ko kayo sa domain name hehe
         </p>
       </main>
 
