@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Sorry, kung naunahan ko kayo sa domain name hehe
         </p>
+        </Header>
       </main>
 
       <Footer />
